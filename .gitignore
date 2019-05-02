@@ -4,7 +4,6 @@
 /node_modules
 
 # production
-/build
 /demo
 
 # testing
@@ -27,3 +26,4 @@ yarn-error.log*
 
 # External libs
 src/jslib-html5-camera-photo/
+package-lock.json
